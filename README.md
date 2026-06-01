@@ -48,3 +48,4 @@ Skriv till **hej@webraketen.se** — eller boka direkt via [webraketen.se](https
 | Il Gambero | https://ilgambero.se | restaurant-pizzeria | Göteborg |
 | Vallawok | https://vallawok.se | restaurant-thai | Linköping |
 | Miss Print | https://missprint.se | print-shop | Göteborg |
+| Bytly | https://bytly.se | marketplace-housing | Sverige |
