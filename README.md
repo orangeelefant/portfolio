@@ -46,3 +46,4 @@ Open portfolio of websites built and operated through [Webraketen](https://webra
 
 Skriv till **hej@webraketen.se** — eller boka direkt via [webraketen.se](https://webraketen.se).
 | Il Gambero | https://ilgambero.se | restaurant-pizzeria | Göteborg |
+| Vallawok | https://vallawok.se | restaurant-thai | Linköping |
