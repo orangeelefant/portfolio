@@ -49,3 +49,4 @@ Skriv till **hej@webraketen.se** — eller boka direkt via [webraketen.se](https
 | Vallawok | https://vallawok.se | restaurant-thai | Linköping |
 | Miss Print | https://missprint.se | print-shop | Göteborg |
 | Bytly | https://bytly.se | marketplace-housing | Sverige |
+| Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
