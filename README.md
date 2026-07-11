@@ -50,3 +50,4 @@ Skriv till **hej@webraketen.se** — eller boka direkt via [webraketen.se](https
 | Miss Print | https://missprint.se | print-shop | Göteborg |
 | Bytly | https://bytly.se | marketplace-housing | Sverige |
 | Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
+| Städhjälp Göteborg | https://stadhjalpgoteborg.se | cleaning-emd | Göteborg |
