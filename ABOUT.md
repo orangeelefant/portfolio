@@ -22,4 +22,4 @@ Sites we build, host, and operate:
 
 ## Contact
 - 📧 hej@webraketen.se · 🌍 Göteborg, Sverige
-- 🐙 [github.com/Webraketen](https://github.com/Webraketen) · [github.com/orangeelefant](https://github.com/orangeelefant)
+- 🐙 [github.com/orangeelefant](https://github.com/orangeelefant)
