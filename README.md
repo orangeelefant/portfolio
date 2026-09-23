@@ -36,6 +36,18 @@ Open portfolio of websites built and operated through [Webraketen](https://webra
 |---|---|---|
 | Rastahunden | https://rastahunden.com | Sveriges hundvänliga karta — Next.js + Supabase |
 
+### More sites
+
+| Site | URL | Type | City |
+|---|---|---|---|
+| Il Gambero | https://ilgambero.se | restaurant-pizzeria | Göteborg |
+| Vallawok | https://vallawok.se | restaurant-thai | Linköping |
+| Miss Print | https://missprint.se | print-shop | Göteborg |
+| Bytly | https://bytly.se | marketplace-housing | Sverige |
+| Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
+| Städhjälp Göteborg | https://stadhjalpgoteborg.se | cleaning-emd | Göteborg |
+| Storstäd Göteborg | https://storstadgoteborg.se | cleaning-emd | Göteborg |
+
 ## Methodology
 
 - **Stack base:** Astro · Next.js · SvelteKit · TypeScript · Tailwind · Supabase · Netlify · Cloudflare · Resend · PostHog
@@ -45,10 +57,3 @@ Open portfolio of websites built and operated through [Webraketen](https://webra
 ## Contact
 
 Skriv till **hej@webraketen.se** — eller boka direkt via [webraketen.se](https://webraketen.se).
-| Il Gambero | https://ilgambero.se | restaurant-pizzeria | Göteborg |
-| Vallawok | https://vallawok.se | restaurant-thai | Linköping |
-| Miss Print | https://missprint.se | print-shop | Göteborg |
-| Bytly | https://bytly.se | marketplace-housing | Sverige |
-| Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
-| Städhjälp Göteborg | https://stadhjalpgoteborg.se | cleaning-emd | Göteborg |
-| Storstäd Göteborg | https://storstadgoteborg.se | cleaning-emd | Göteborg |

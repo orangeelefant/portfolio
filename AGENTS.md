@@ -4,7 +4,7 @@ Mandatory instructions for automation agents (Claude Code, Codex, etc.) working 
 
 ## Repository
 
-- **Name:** `Webraketen/portfolio`
+- **Name:** `orangeelefant/portfolio`
 - **Purpose:** Webraketen — public portfolio of websites we build and operate
 - **Production URL:** https://webraketen.se
 
