@@ -13,7 +13,7 @@
 - Du godkänner skissen innan vi skriver kod och följer arbetet via en delad förhandslänk.
 - Launch 3 999 kr (1 till 3 sidor, 14 dagar), Expand 5 999 kr (5 till 10 sidor, 14 dagar), Complete 8 999 kr (10 sidor eller fler, 21 dagar).
 - Vid lansering flyttar vi domänen, kopplar sökverktygen och går igenom en checklista för driften.
-- Du äger sajten. AI skriver utkasten, vi leder arbetet och granskar allt.
+- Sajten är din. Vi sköter driften om du vill. AI skriver utkasten, vi leder arbetet och granskar allt.
 - Verktyg: Astro, Next.js, SvelteKit, TypeScript, Tailwind, Supabase, Netlify, Cloudflare, Resend, PostHog.
 
 Skriv till **hej@webraketen.se** eller ring 031-373 51 11, mån till fre 09 till 17.
