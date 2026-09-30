@@ -57,7 +57,6 @@ Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten �
 | Sajt | Typ | Ort |
 |---|---|---|
 | Il Gambero | restaurant-pizzeria | Göteborg |
-| Vallawok | restaurant-thai | Linköping |
 | Miss Print | print-shop | Göteborg |
 
 ## Fler sajter
