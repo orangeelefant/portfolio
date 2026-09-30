@@ -5,7 +5,7 @@
 
 # Sajter som Webraketen bygger och driver
 
-[Webraketen](https://webraketen.se) bygger webbplatser till fast pris från Göteborg. Här är sajterna vi har byggt och driver i dag.
+[Webraketen](https://webraketen.se) bygger webbplatser till fast pris från Göteborg. Här är sajterna vi har byggt och driver i dag, och några som är på väg.
 
 ## Så jobbar vi
 
@@ -13,7 +13,7 @@
 - Du godkänner skissen innan vi skriver kod och följer arbetet via en delad förhandslänk.
 - Launch 3 999 kr (1 till 3 sidor, 14 dagar), Expand 5 999 kr (5 till 10 sidor, 14 dagar), Complete 8 999 kr (10 sidor eller fler, 21 dagar).
 - Vid lansering flyttar vi domänen, kopplar sökverktygen och går igenom en checklista för driften.
-- Sajten är din från dag ett. AI skriver utkasten, vi leder arbetet och granskar allt.
+- Du äger sajten. AI skriver utkasten, vi leder arbetet och granskar allt.
 - Verktyg: Astro, Next.js, SvelteKit, TypeScript, Tailwind, Supabase, Netlify, Cloudflare, Resend, PostHog.
 
 Skriv till **hej@webraketen.se** eller ring 031-373 51 11, mån till fre 09 till 17.
@@ -50,13 +50,20 @@ Skriv till **hej@webraketen.se** eller ring 031-373 51 11, mån till fre 09 till
 |---|---|---|
 | Rastahunden | https://rastahunden.com | Sveriges hundvänliga karta, Next.js och Supabase |
 
+## På väg
+
+Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten är klar.
+
+| Sajt | Typ | Ort |
+|---|---|---|
+| Il Gambero | restaurant-pizzeria | Göteborg |
+| Vallawok | restaurant-thai | Linköping |
+| Miss Print | print-shop | Göteborg |
+
 ## Fler sajter
 
 | Sajt | Adress | Typ | Ort |
 |---|---|---|---|
-| Il Gambero | https://ilgambero.se | restaurant-pizzeria | Göteborg |
-| Vallawok | https://vallawok.se | restaurant-thai | Linköping |
-| Miss Print | https://missprint.se | print-shop | Göteborg |
 | Bytly | https://bytly.se | marketplace-housing | Sverige |
 | Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
 | Städhjälp Göteborg | https://stadhjalpgoteborg.se | cleaning-emd | Göteborg |
