@@ -67,3 +67,4 @@ Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten �
 | Kontorsstäd Göteborg | https://kontorsstadgoteborg.se | cleaning-emd | Göteborg |
 | Städhjälp Göteborg | https://stadhjalpgoteborg.se | cleaning-emd | Göteborg |
 | Storstäd Göteborg | https://storstadgoteborg.se | cleaning-emd | Göteborg |
+| Flytthandboken | https://flytthandboken.se | moving-publisher | Göteborg |
