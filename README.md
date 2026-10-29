@@ -27,7 +27,6 @@ Skriv till **hej@webraketen.se** eller ring 031-373 51 11, mån till fre 09 till
 | Theresas Städ | https://theresasstad.se | Astro · Netlify | Familjeägd städfirma |
 | Tittis Städ | https://tittisstad.se | Astro · Netlify | Hemstäd och flyttstäd i Göteborg |
 | Fastpris Städ Göteborg | https://fastprisstad.se | Astro · Cloudflare | Kontorsstäd till fast pris |
-| Hemstäd Göteborg | https://hemstadgoteborg.com | Astro · Netlify | Hemstädning i alla stadsdelar |
 | Flyttstäd Göteborg | https://flyttstadgoteborg.se | Astro · Netlify | Flyttstädning i Göteborg |
 | Hittaflyttstädning | https://hittaflyttstadning.se | Astro · Cloudflare | Jämförelseguide för flyttstädning |
 

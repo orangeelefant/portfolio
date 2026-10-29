@@ -6,6 +6,7 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Länkarna till hemstadgoteborg.com är borttagna enligt Christoffers beslut (2026-10-29).
 - Vallawok är borttagen ur "På väg" enligt Christoffers beslut, eftersom den inte längre är ett aktuellt projekt (2026-09-30).
 - Äganderätten enligt Christoffers beslut: "Sajten är din. Vi sköter driften om du vill." (DOK-03, 2026-09-30).
 - Il Gambero, Vallawok och Miss Print ligger under "På väg" utan länk, eftersom domänerna fortfarande visar de gamla sajterna. "Sajten är din från dag ett" är ersatt med "du äger sajten" tills villkoren och copyn är samordnade (DOK-02, DOK-03, 2026-09-30).
