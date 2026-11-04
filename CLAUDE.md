@@ -2,48 +2,31 @@
 
 Project context for Claude Code sessions in this repository.
 
-## What This Is
+## What this is
 
-Webraketen — public portfolio of websites we build and operate
+Public portfolio of the sites Webraketen builds and runs.
 
-**Live:** https://webraketen.se
+**Live:** https://orangeelefant.github.io/portfolio/
 
 ## Stack
 
-_(Fill in: framework, language, hosting, key services. Inspect `package.json` / `pyproject.toml` / similar to confirm.)_
+Markdown. GitHub Pages renders `README.md` with Jekyll (legacy build from `main`).
 
 ## Layout
 
-- `src/` — source code
-- `tests/` — tests
-- `docs/` — documentation
-- `scripts/` — utility scripts
+- `README.md`: the portfolio, one table per industry
+- `assets/`: Webraketen logo, light and dark
+- `ABOUT.md`: short English summary
 
 ## Commands
 
-```bash
-# install
-# build
-# test
-# dev
-```
+None. Edit the files, commit, push to `main`.
 
-_(Fill in actual commands once known.)`_
+## Definition of done
 
-## Conventions
-
-- Match existing patterns; don't introduce new abstractions without reason.
-- Keep files under 500 lines.
-- Swedish copy for client-facing text unless otherwise specified.
-- Secrets live in `~/.secrets` and are referenced via `${VAR}`.
-
-## Definition of Done
-
-A change is done when:
-
-1. Code works (built and verified locally).
-2. `CHANGELOG.md` updated under `[Unreleased]`.
-3. `TODO.md` reconciled (completed items removed or ticked, follow-ups added).
+1. Links checked: every client link keeps its URL and anchor text.
+2. `CHANGELOG.md` has a line under `[Unreleased]`.
+3. `TODO.md` reconciled.
 4. Committed and pushed to `main`.
 
-See `AGENTS.md` for the full agent contract.
+See `AGENTS.md` for the agent rules.

@@ -6,6 +6,7 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Webraketens GitHub-sidfot sist i README. AGENTS.md och CLAUDE.md anger Pages-URL:en och saknar platshållare. GitHub-beskrivning och ämnen uppdaterade (2026-11-04).
 - Länkarna till hemstadgoteborg.com är borttagna enligt Christoffers beslut (2026-10-29).
 - Vallawok är borttagen ur "På väg" enligt Christoffers beslut, eftersom den inte längre är ett aktuellt projekt (2026-09-30).
 - Äganderätten enligt Christoffers beslut: "Sajten är din. Vi sköter driften om du vill." (DOK-03, 2026-09-30).
